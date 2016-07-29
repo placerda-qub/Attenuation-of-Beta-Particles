@@ -1,5 +1,5 @@
 untitled.tex
 section_Experimental_Setup_The_setup__.tex
 section_The_effect_of_distance__.tex
-section_Uncertainties__.tex
+section_Uncertainties_Radioactivity_is_a__.tex
 section_Bibliography_url_http_practicalphysics__.tex
