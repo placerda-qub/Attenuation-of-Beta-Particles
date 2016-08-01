@@ -2,5 +2,5 @@ untitled.tex
 section_Experimental_Setup_The_setup__.tex
 section_Experiments_subsection_The_effect__.tex
 figures/Fig_Inverse_Square_Law/Fig_Inverse_Square_Law.png
-section_Uncertainties_Radioactivity_is_a__.tex
+subsection_Uncertainties_Radioactivity_is_a__.tex
 section_Bibliography_url_http_practicalphysics__.tex
