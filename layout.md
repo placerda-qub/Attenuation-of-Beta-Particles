@@ -1,5 +1,5 @@
 untitled.tex
-section_Experimental_Setup_The_setup__.tex
+section_Experimental_Setup_You_should__.tex
 section_The_effect_of_distance__.tex
 figures/Fig_Inverse_Square_Law/Fig_Inverse_Square_Law.png
 section_Uncertainties_Radioactivity_is_a__.tex
