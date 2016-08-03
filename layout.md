@@ -1,6 +1,7 @@
 untitled.tex
 section_Theory_The_absorption_of__.tex
 figures/Attenuation/Attenuation.png
+It_can_be_seen_that__.tex
 section_Experimental_Setup_The_setup__.tex
 section_Experiments_subsection_The_effect__.tex
 figures/Fig_Inverse_Square_Law/Fig_Inverse_Square_Law.png
